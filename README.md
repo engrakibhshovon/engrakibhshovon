@@ -1,21 +1,11 @@
 <h1 align="center">Rakib Hasan</h1>
 <p align="justify">Currently pursuing a Bachelor of Science degree in Computer Science and Engineering at Daffodil International University. He is competent in several programming languages, such as C, Java, Python, Assembly, and Dart, and is also skilled in data structure, algorithms, object-oriented programming, data mining, and machine learning. He has completed some projects using those languages. His strengths are that he is self-motivated, hardworking, disciplined, and a quick learner. His short-term plan is to complete his graduation with a high grade, and his long-term goal is to attain an honest position wherever he will build his career as well as serve his nation.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrrakibhasan&label=Profile%20views&color=0e75b6&style=flat" alt="engrrakibhasan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engrrakibhasan" alt="engrrakibhasan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
-
-- 📫 How to reach me **rakib15-3948@diu.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/engrrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrrrakibhasan" height="30" width="40" /></a>
-<a href="https://kaggle.com/rakibhasan3948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibhasan3948" height="30" width="40" /></a>
-<a href="https://fb.com/engrrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrrrakibhasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" /></p>
