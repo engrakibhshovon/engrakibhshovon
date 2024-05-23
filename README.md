@@ -1,4 +1,4 @@
-<h1>Rakib Hasan</h1>
+<h1 align="center">Rakib Hasan</h1>
 <div align="center">
 <img src="https://www.bing.com/th/id/OGC.8190a1dce0daf6e56c705dba6e07d27f?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f5690231%2fscreenshots%2f16191500%2fmedia%2f4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif&ehk=EG0DMGOyUJ3le8SNjdlo%2bLxxSje3wP1E7qT5TKymyW0%3d" width="300">
 </div>
