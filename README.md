@@ -9,16 +9,18 @@
 
 <p align="justify">Rakib Hasan is currently pursuing a Bachelor of Science degree in Computer Science and Engineering at Daffodil International University. He is competent in several programming languages, such as C, Java, Python, Assembly, and Dart, and is also skilled in data structure, algorithms, object-oriented programming, data mining, and machine learning. He has completed some projects using those languages. His strengths are that he is self-motivated, hardworking, disciplined, and a quick learner. His short-term plan is to complete his graduation with a high grade, and his long-term goal is to attain an honest position wherever he will build his career as well as serve his nation.</p>
 
+<br>
 - 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/engrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrrakibhasan" height="30" width="40" /></a>
 <a href="https://kaggle.com/rakibhasan3948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibhasan3948" height="30" width="40" /></a>
 </p>
 
-<table>
+<br>
+<table border="1">
   <tr>
     <td width="33.33%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" />
