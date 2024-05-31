@@ -18,11 +18,20 @@
 <a href="https://kaggle.com/rakibhasan3948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibhasan3948" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-    <img width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" />
-    <img width="33.33%" src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" />
-    <img width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" />
-</div>
+<table>
+  <tr>
+    <td width="33.33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" />
+    </td>
+  </tr>
+</table>
+
 
 
 
