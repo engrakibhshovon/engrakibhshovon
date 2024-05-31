@@ -1,6 +1,3 @@
-<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQHkvRO_HhGMEA/profile-displaybackgroundimage-shrink_350_1400/0/1699884618641?e=1722470400&v=beta&t=zb8Pa7aww_JWtQ552mZGWf2jWakDIZpX0tT-VMnh6nw" alt="engrrakibhasan" /></p>
-
-
 <h1 align="center">Rakib Hasan</h1>
 
 <div align="center">
