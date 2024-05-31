@@ -1,3 +1,6 @@
+<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQHkvRO_HhGMEA/profile-displaybackgroundimage-shrink_350_1400/0/1699884618641?e=1722470400&v=beta&t=zb8Pa7aww_JWtQ552mZGWf2jWakDIZpX0tT-VMnh6nw" alt="engrrakibhasan" /></p>
+
+
 <h1 align="center">Rakib Hasan</h1>
 
 <div align="center">
@@ -9,6 +12,12 @@
 - 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/engrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrrakibhasan" height="30" width="40" /></a>
+<a href="https://kaggle.com/rakibhasan3948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibhasan3948" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" /></p>
@@ -17,57 +26,3 @@
 
 
 
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
-
-on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: engrrakibhasan
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
