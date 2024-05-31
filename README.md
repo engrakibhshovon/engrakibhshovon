@@ -11,18 +11,19 @@
 
 - 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/engrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrrakibhasan" height="30" width="40" /></a>
 <a href="https://kaggle.com/rakibhasan3948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibhasan3948" height="30" width="40" /></a>
 </p>
 
-<p><img width="33.33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <img width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrrakibhasan&show_icons=true&locale=en&layout=compact" alt="engrrakibhasan" />
+    <img width="33.33%" src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" />
+    <img width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" />
+</div>
 
-<p>&nbsp;<img width="33.33%" align="center" src="https://github-readme-stats.vercel.app/api?username=engrrakibhasan&show_icons=true&locale=en" alt="engrrakibhasan" /></p>
-
-<p><img width="33.33%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=engrrakibhasan&" alt="engrrakibhasan" /></p>
 
 
 
