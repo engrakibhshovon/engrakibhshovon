@@ -9,7 +9,7 @@
 <br>
 - 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
 
-
+<br>
 <br>
 <table border="1">
   <tr>
@@ -24,7 +24,6 @@
     </td>
   </tr>
 </table>
-
 
 <br>
 <h3 align="left">Reach Me</h3>
