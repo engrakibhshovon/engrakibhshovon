@@ -11,6 +11,7 @@
 
 <br>
 <br>
+<br>
 <table border="1">
   <tr>
     <td width="33.33%">
@@ -25,7 +26,6 @@
   </tr>
 </table>
 
-<br>
 <h3 align="left">Reach Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/engrrakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrrakibhasan" height="30" width="40" /></a>
