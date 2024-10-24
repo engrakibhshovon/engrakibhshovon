@@ -1,7 +1,7 @@
 <h1 align="center">Rakib Hasan</h1>
 
 <div align="center">
-<img src="[https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=http%3a%2f%2fjavanrayan.com%2fimages%2f1397%2f08%2f17%2fprogrammer.gif&ehk=SSyT4%2faf8JThO%2boBBzorrPrIZY4y6gBsmpYphb%2fgDdo%3d](https://engrrakibhasan.github.io/RakibHasan/assets/rakibhasan.png)" width="350">
+<img src="https://engrrakibhasan.github.io/RakibHasan/assets/rakibhasan.png" width="350">
 </div>
 
 <p align="justify">Rakib Hasan is currently pursuing a Bachelor of Science degree in Computer Science and Engineering at Daffodil International University. He has a basic understanding of several programming languages, including C, Java, Python, Assembly, and Dart. Additionally, he is familiar with HTML, CSS, JavaScript, and PHP. Rakib has foundational knowledge in data structures and algorithms, object-oriented programming, data mining, and machine learning. He has applied these skills in various projects. His strengths include being self-motivated, hardworking, disciplined, and a quick learner. In the short term, he aims to complete his graduation with high grades, and his long-term goal is to secure an honest and impactful position in his career, contributing to his nation.</p>
