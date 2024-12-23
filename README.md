@@ -26,5 +26,5 @@
 <a href="https://linkedin.com/in/engrakibhshovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrakibhshovon" height="30" width="40" /></a>
 <a href="https://fb.com/engrakibhshovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrakibhshovon" height="30" width="40" /></a>
 <a href="https://instagram.com/engrakibhshovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engrakibhshovon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/engrakibhshovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rakibh.shovon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/engrakibhshovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rakibh.shovon" height="30" width="40" /></a>
 </p>
