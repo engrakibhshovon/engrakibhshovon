@@ -1,7 +1,7 @@
-<p align="justify">Rakib is currently pursuing a Bachelor of Science degree in Computer Science and Engineering at Daffodil International University. He has a basic understanding of several programming languages, including C, Java, Python, Assembly, and Dart. Additionally, he is familiar with HTML, CSS, JavaScript, and PHP. Rakib has foundational knowledge in data structures and algorithms, object-oriented programming, data mining, and machine learning. He has applied these skills in various projects. His strengths include being self-motivated, hardworking, disciplined, and a quick learner. In the short term, he aims to complete his graduation with high grades, and his long-term goal is to secure an honest and impactful position in his career, contributing to his nation.</p>
+<p align="justify">Rakib recently pursued a Bachelor of Science degree in Computer Science and Engineering at Daffodil International University. He has a basic understanding of several programming languages, including C, Java, Python, Assembly, and Dart. Additionally, he is familiar with HTML, CSS, JavaScript, and PHP. He has foundational knowledge in data structures and algorithms, object-oriented programming, operating system, data mining, machine learning, deep learning, and flutter. He has applied these skills in various projects. His strengths include being self-motivated, hardworking, disciplined, and a quick learner. His goal is to secure an honest and impactful position in his career, contributing to his nation.</p>
 
 <br>
-- 💬 Ask me about **C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, and Machine Learning**
+- 💬 Ask me about C, Python, Assembly, Dart, Data Structure, Algorithms, Object-Oriented Programming, Data Mining, Machine Learning, Deep Learning, and Flutter.
 
 <br>
 <br>
